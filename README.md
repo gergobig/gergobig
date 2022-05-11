@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gergo Nagy. @gergobig
 - 👀 I’m interested in technologies and frameworks that involves data in large scale.
-- 🌱 I’m currently working as a Data Engineer at Deutsche Telekom IT Solutions.
+- 🌱 I’m currently working as a Data Engineer at LENSA.
 - 📫 You can reach me on LinkedIn my ID is: gergo-big.
 
 <!---
