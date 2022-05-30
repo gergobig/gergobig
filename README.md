@@ -1,6 +1,6 @@
 Hello,
  
-My name is Gergő Gábor Nagy (I use Gergő), Data Engineer. I’m 25 years old and I was born in Nyíregyháza, currently living in Budapest. I studied computer science, big data and business intelligence specialization at Obuda University where I worked as a student teacher and a visiting lecturer as well. Previously I worked at:
+My name is Gergő Gábor Nagy (I use Gergő), Data Engineer. I’m 25 years old and I was born in Nyíregyháza, currently living in Budapest. I studied computer science, big data and business intelligence specialization at Obuda University where I worked as a student teacher and a visiting lecturer as well. I worked at:
 - Deutsche Telekom IT Solutions, where I got to experience the Azure and Palantir Foundry worlds. During T my tasks mainly contained ETL pipeline creation, analyzing, fixing data quality bugs, communicating with customers etc. 
 - Barion Payment Inc., which is a hungarian fintech startup. Here I jumped into the on-prem data platform engineering with managing and parsing raw data to our S3 like open-source datalake.
 
